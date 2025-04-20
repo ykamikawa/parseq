@@ -1,0 +1,14 @@
+# @package _global_
+
+data:
+  root_dir: ./data
+  train_dir: ""
+
+model:
+  batch_size: 32
+  charset_test: "0123456789"
+
+trainer:
+  max_epochs: 30
+  devices: 1
+  val_check_interval: 5

@@ -1,4 +1,5 @@
 # Output directories
+data/
 outputs/
 multirun/
 ray_results/

@@ -1,0 +1,6 @@
+# @package _global_
+# Character set definition for digits 0-9
+
+model:
+  charset_train: "0123456789"
+  charset_test: "0123456789"
